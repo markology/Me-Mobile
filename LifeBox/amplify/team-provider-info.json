@@ -1,0 +1,19 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "me-app-master-20191023150323-authRole",
+            "UnauthRoleArn": "arn:aws:iam::610080045152:role/me-app-master-20191023150323-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::610080045152:role/me-app-master-20191023150323-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "me-app-master-20191023150323-deployment",
+            "UnauthRoleName": "me-app-master-20191023150323-unauthRole",
+            "StackName": "me-app-master-20191023150323",
+            "StackId": "arn:aws:cloudformation:us-east-1:610080045152:stack/me-app-master-20191023150323/c9430360-f5c7-11e9-9b95-0e3e6f4b77b8"
+        },
+        "categories": {
+            "auth": {
+                "meappa8835a28": {}
+            }
+        }
+    }
+}

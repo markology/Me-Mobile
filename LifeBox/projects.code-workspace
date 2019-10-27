@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\markj\\projects\\me-app"
+		},
+		{
+			"path": "C:\\Users\\markj\\projects\\notes-app-client"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.DS_Store": false,
+			"**/.git": false,
+			"**/.hg": false,
+			"**/.svn": false,
+			"**/CVS": false
+		}
+	}
+}
